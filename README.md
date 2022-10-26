@@ -1,4 +1,4 @@
 Dr-Wood-Courseone
 =================
 
-Data Storage for Statistical TOOLBOX coURSE
+Data Storage for Statistical TOOLBOX COURSE
